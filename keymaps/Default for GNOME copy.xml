@@ -1,1 +1,5 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME" />
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+</keymap>
