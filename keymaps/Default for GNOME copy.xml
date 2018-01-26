@@ -2,4 +2,11 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
